@@ -1,0 +1,155 @@
+body{
+	background-color: #e6f7ff;
+	font-family: serif;
+	width: 750px;
+	margin-left: 350px;
+}
+.form{
+	background-color: white;
+	margin: auto;
+	border-style: none;
+	border-width: 30Px;
+	border-top:  10px solid blue;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding: bottom: 10Px;
+}	
+
+span{color: red;}
+input{border-style: none;
+	border-bottom: solid black;
+}
+.email{
+	background-color: white;
+	margin: auto;
+	border-style: none;
+	border-width: 30px;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding: bottom: 10Px;
+}
+.name{
+	background-color: white;
+	margin: auto;
+	border-style: none;
+	border-width: 30px;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding: bottom: 10Px;
+}
+.number{
+	background-color: white;
+	margin: auto;
+	border-style: none;
+	border-width: 30px;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding: bottom: 10Px;
+
+}
+.next-kin{
+	background-color: white;
+	margin: auto;
+	border-style: none;
+	border-width:35px;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding: bottom: 10Px;
+}
+.fees{
+	background-color: white;
+	margin: auto;
+	border-style: none;
+	border-width:30px;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding: bottom: 10Px;
+
+}
+.payment{
+	margin: auto;
+	border-style: none;
+	background-color: white;
+	padding-top: 10px;
+	border-radius: 10px;
+	padding-left: 10px;
+	border-width: 35px;
+	padding-bottom: 10px;
+
+}
+.school{
+	background-color: #fff;
+	margin: auto;
+	border-style: none;
+	border-width:30px;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding: bottom: 10Px;
+
+}
+.location{
+	border-radius: 10px;
+	padding-left: 10px;
+	border-width: 35px;
+	padding-bottom: 10px;
+	margin: auto;
+	border-style: none;
+	background-color: white;
+	padding-top: 10px;
+
+}
+.reason{
+	padding-top: 10px;
+	border-radius: 10px;
+	padding-left: 10px;
+	border-width: 35px;
+	padding-bottom: 10px;
+	margin: auto;
+	border-style: none;
+	background-color: #fff;
+}
+
+.info{
+    height: 85px;
+    background-color: white;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-width: 30px;
+
+}
+
+.submit{
+	margin: auto;
+	border-style: none;
+	border-width: 40px;
+	padding-bottom: 8px;
+	padding-right: 10px;
+	padding-left: 10px;
+	height: 10vh;
+	padding-top: 10px;
+}
+
+
+ #page{padding-left: 20px;
+ 	   
+ }
+ img{
+ 	height: 40px; 
+ 	width: 40px;
+    margin-left: 350px;
+ }
+ .flex-container{
+ 	
+ 	display: flex;
+ }
+#Page{
+	float: right;
+}
